@@ -4,7 +4,6 @@
 
 This Python project is a fun and interactive **virtual paint application** that uses **hand tracking** to let users draw shapes, lines, and freehand sketches on the screen — completely touch-free using your **webcam and hand gestures**!
 
----
 
 ## ✨ Features
 
@@ -14,7 +13,6 @@ This Python project is a fun and interactive **virtual paint application** that 
 - Built using **MediaPipe**, **OpenCV**, and **NumPy**
 - Real-time performance with gesture-based switching
 
----
 
 ## 🛠️ Built With
 
@@ -22,7 +20,7 @@ This Python project is a fun and interactive **virtual paint application** that 
 - [OpenCV](https://opencv.org/) – Real-time video and drawing
 - [NumPy](https://numpy.org/) – Image mask processing
 
----
+
 
 ## 📦 Installation
 
@@ -35,7 +33,7 @@ This Python project is a fun and interactive **virtual paint application** that 
 pip install mediapipe opencv-python numpy
 ````
 
----
+
 
 ## 🚀 How to Run
 
@@ -63,7 +61,7 @@ python virtual_paint_app.py
    * Select shapes by gesture and release to draw
    * Erase by hovering over drawn items
 
----
+
 
 ## 🎯 Hand Gestures Guide
 
@@ -75,14 +73,10 @@ python virtual_paint_app.py
 | **Rectangle** | Select and drag to draw               |
 | **Erase**     | Use thumb/index to move eraser        |
 
----
+
 
 ## 📸 Notes
 
 * Works best with good lighting and a clear background
 * Only one hand is tracked at a time
 * Make sure your webcam is accessible
-
----
-
-
